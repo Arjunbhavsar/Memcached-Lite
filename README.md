@@ -1,6 +1,6 @@
 # Memcached-Lite
 
-**This was implemented under the valuable guidance of Prof David Crandall at Indiana University in B551 Elements of AI during Fall 2019**
+**This was implemented under the valuable guidance of Prof Prateek Sharma at Indiana University in B551 Elements of AI during Fall 2019**
 
 ## Getting Started
 
